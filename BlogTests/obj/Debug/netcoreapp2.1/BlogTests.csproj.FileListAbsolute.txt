@@ -1,0 +1,14 @@
+C:\Users\Peti\Desktop\QA Automation\Blog-Tabaluga-and-Tests\BlogTests\bin\Debug\netcoreapp2.1\BlogTests.deps.json
+C:\Users\Peti\Desktop\QA Automation\Blog-Tabaluga-and-Tests\BlogTests\bin\Debug\netcoreapp2.1\BlogTests.runtimeconfig.json
+C:\Users\Peti\Desktop\QA Automation\Blog-Tabaluga-and-Tests\BlogTests\bin\Debug\netcoreapp2.1\BlogTests.runtimeconfig.dev.json
+C:\Users\Peti\Desktop\QA Automation\Blog-Tabaluga-and-Tests\BlogTests\bin\Debug\netcoreapp2.1\BlogTests.dll
+C:\Users\Peti\Desktop\QA Automation\Blog-Tabaluga-and-Tests\BlogTests\obj\Debug\netcoreapp2.1\BlogTests.csprojAssemblyReference.cache
+C:\Users\Peti\Desktop\QA Automation\Blog-Tabaluga-and-Tests\BlogTests\obj\Debug\netcoreapp2.1\BlogTests.csproj.CoreCompileInputs.cache
+C:\Users\Peti\Desktop\QA Automation\Blog-Tabaluga-and-Tests\BlogTests\obj\Debug\netcoreapp2.1\BlogTests.AssemblyInfoInputs.cache
+C:\Users\Peti\Desktop\QA Automation\Blog-Tabaluga-and-Tests\BlogTests\obj\Debug\netcoreapp2.1\BlogTests.AssemblyInfo.cs
+C:\Users\Peti\Desktop\QA Automation\Blog-Tabaluga-and-Tests\BlogTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Peti\Desktop\QA Automation\Blog-Tabaluga-and-Tests\BlogTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Peti\Desktop\QA Automation\Blog-Tabaluga-and-Tests\BlogTests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Peti\Desktop\QA Automation\Blog-Tabaluga-and-Tests\BlogTests\bin\Debug\netcoreapp2.1\BlogTests.pdb
+C:\Users\Peti\Desktop\QA Automation\Blog-Tabaluga-and-Tests\BlogTests\obj\Debug\netcoreapp2.1\BlogTests.dll
+C:\Users\Peti\Desktop\QA Automation\Blog-Tabaluga-and-Tests\BlogTests\obj\Debug\netcoreapp2.1\BlogTests.pdb
